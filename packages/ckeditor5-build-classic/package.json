@@ -1,6 +1,6 @@
 {
   "name": "@mgsmus/ckeditor5-custom-classic",
-  "version": "27.0.0",
+  "version": "27.0.1",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -52,7 +52,6 @@
     "@ckeditor/ckeditor5-paragraph": "^27.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^27.0.0",
     "@ckeditor/ckeditor5-remove-format": "^27.0.0",
-    "@ckeditor/ckeditor5-restricted-editing": "^27.0.0",
     "@ckeditor/ckeditor5-special-characters": "^27.0.0",
     "@ckeditor/ckeditor5-table": "^27.0.0",
     "@ckeditor/ckeditor5-typing": "^27.0.0"
